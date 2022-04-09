@@ -1,0 +1,250 @@
+[
+  {
+    "waktu": "09/04/2022 16:41:07 WIB",
+    "lintang": "8.76 LS",
+    "bujur": "114.73 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "82 Km",
+    "wilayah": "Pusat gempa berada di laut 48 km tenggara Jembrana",
+    "warning": [
+      "III-IV Badung",
+      "II Denpasar",
+      "II Tabanan",
+      "II Gianyar",
+      "II Mataram",
+      "III Jembrana",
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "08/04/2022 19:32:13 WIB",
+    "lintang": "3.18 LS",
+    "bujur": "139.01 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "68 Km",
+    "wilayah": "Pusat gempa berada di darat 67 km Timur Laut Tolikara",
+    "warning": [
+      "II Timika",
+      "III Wamena",
+      "II Mulia",
+      "III Tolikara"
+    ]
+  },
+  {
+    "waktu": "08/04/2022 15:28:35 WIB",
+    "lintang": "2.35 LS",
+    "bujur": "121.02 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut LuwuTimur",
+    "warning": [
+      "II-III Kalaena"
+    ]
+  },
+  {
+    "waktu": "07/04/2022 15:40:51 WIB",
+    "lintang": "3.36 LU",
+    "bujur": "117.6 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Tarakan",
+    "warning": [
+      "III Tarakan"
+    ]
+  },
+  {
+    "waktu": "07/04/2022 13:36:41 WIB",
+    "lintang": "4.16 LS",
+    "bujur": "102.06 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Seluma",
+    "warning": [
+      "II - III Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "06/04/2022 20:23:00 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 1.5 km barat laut Kendari",
+    "warning": [
+      "II - III Kendari",
+      "II - III Konawe Selatan"
+    ]
+  },
+  {
+    "waktu": "06/04/2022 10:03:36 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "110.57 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di laut 24 Km Barat Daya Gunung Kidul",
+    "warning": [
+      "II Gunung Kidul",
+      "II Bantul",
+      "II Sleman",
+      "II Trenggalek",
+      "II - III Pacitan"
+    ]
+  },
+  {
+    "waktu": "05/04/2022 21:16:33 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "122.61 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Kendari",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
+    "waktu": "05/04/2022 20:28:21 WIB",
+    "lintang": "1.93 LS",
+    "bujur": "125.93 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat laut Sanana",
+    "warning": [
+      "III Sanana"
+    ]
+  },
+  {
+    "waktu": "05/04/2022 15:37:15 WIB",
+    "lintang": "7.36 LS",
+    "bujur": "106.05 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "64 Km",
+    "wilayah": "Pusat gempa berada di laut 52 km Barat Daya Bayah",
+    "warning": [
+      "II-III Simpenan"
+    ]
+  },
+  {
+    "waktu": "05/04/2022 08:44:06 WIB",
+    "lintang": "2.11 LU",
+    "bujur": "126.97 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 109 km Barat Laut Halmahera Barat",
+    "warning": [
+      "III-IV Galela",
+      "III Tobelo",
+      "II-III Bitung",
+      "II Siau",
+      "II Morotai",
+      "III Halmahera Barat"
+    ]
+  },
+  {
+    "waktu": "05/04/2022 05:46:59 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "100.27 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Baratlaut Bukit Tinggi",
+    "warning": [
+      "III-IV Bukit Tinggi",
+      "III-IV Agam",
+      "II Padang Panjang"
+    ]
+  },
+  {
+    "waktu": "04/04/2022 10:37:11 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km tenggara Mamasa",
+    "warning": [
+      "II-III Mamasa"
+    ]
+  },
+  {
+    "waktu": "04/04/2022 06:12:38 WIB",
+    "lintang": "4.65 LS",
+    "bujur": "129.46 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km barat Banda",
+    "warning": [
+      "III-IV Banda"
+    ]
+  },
+  {
+    "waktu": "04/04/2022 05:58:43 WIB",
+    "lintang": "4.49 LS",
+    "bujur": "129.87 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km barat laut Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
+    "waktu": "04/04/2022 01:14:37 WIB",
+    "lintang": "0.2 LS",
+    "bujur": "100.34 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 12 km Barat Laut Bukit Tinggi",
+    "warning": [
+      "III-IV Bukit Tinggi",
+      "III-IV Payakumbuh",
+      "III-IV Agam",
+      "III Padang Panjang",
+      "III Tanah datar",
+      "II Pasaman",
+      "II Solok",
+      "II Pariaman"
+    ]
+  },
+  {
+    "waktu": "03/04/2022 08:10:04 WIB",
+    "lintang": "3.88 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km TimurLaut Soropia, Kab. Konawe",
+    "warning": [
+      "II-III Kendari"
+    ]
+  },
+  {
+    "waktu": "03/04/2022 08:01:42 WIB",
+    "lintang": "2.38 LS",
+    "bujur": "140.38 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Kab. Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "02/04/2022 13:37:18 WIB",
+    "lintang": "3.87 LS",
+    "bujur": "122.65 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km Baratlaut Konawe",
+    "warning": [
+      "II - III Kendari"
+    ]
+  },
+  {
+    "waktu": "01/04/2022 19:22:15 WIB",
+    "lintang": "0.44 LS",
+    "bujur": "123.07 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "53 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km TimurLaut Luwuk",
+    "warning": [
+      "II-III Luwuk"
+    ]
+  }
+]
